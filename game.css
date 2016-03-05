@@ -1,0 +1,14 @@
+body {
+	background: '#222';
+	margin: 0px;
+}
+
+span {
+	font-size: 22px;
+	position: absolute;
+color: white;
+}
+
+span#score {
+	margin-left: 85px;
+}
